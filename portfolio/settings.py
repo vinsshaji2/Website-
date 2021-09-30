@@ -33,7 +33,8 @@ SECRET_KEY = 'i9y#j3)$$@s0q$m)jw75##m-jk^f210zdt^@7c6*)=wwbd6+@u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ '127.0.0.1'
+    'vinsportfolio.herokuapp.com']
 
 
 # Application definition
